@@ -23,7 +23,7 @@ other factors besides Expected Recovery Amount that also varied systematically a
 
 does the customer age or sex show a jump (discontinuity) at the $recovery amount ?
 
-we will test age them against the recovery amount then we will run explotory graphical analysis for the recoverd amount and analyse it statically 
+we will test them against the recovery amount then we will run explotory graphical analysis for the recoverd amount and analyse it statically 
 
 then we will take a regression-based approach to estimate the program impact at the $1000 threshold using data that is just above and below the threshold.
 
